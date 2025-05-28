@@ -20,9 +20,10 @@ Sou estudante de Engenharia de Software e Análise de Dados e Inteligência de M
 
 ## GitHub Stats  
 
-![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUÁRIO_GITHUB&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)  
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUÁRIO_GITHUB&repo=github-readme-stats&cache_seconds=86400&theme=github_dark)]  
+
+[![Repo Card](https://github.com/19931510/trilha-net-fundamentos-desafio)
+[![Repo Card](https://github.com/19931510/trilha-net-explorando-desafio)
 
 ---
 
